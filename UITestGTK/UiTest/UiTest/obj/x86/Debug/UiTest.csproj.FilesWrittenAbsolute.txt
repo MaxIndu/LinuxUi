@@ -1,0 +1,6 @@
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/obj/x86/Debug/UiTest.gtk-gui.gui.stetic
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/bin/Debug/UiTest.pdb
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/bin/Debug/UiTest.exe
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/obj/x86/Debug/UiTest.exe
+/home/thrindu/private/LinuxUI/UITestGTK/UiTest/UiTest/obj/x86/Debug/UiTest.pdb
